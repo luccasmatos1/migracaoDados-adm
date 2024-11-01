@@ -1,0 +1,7 @@
+server= suporte03
+porta= 3306
+banco= migracaoaki
+user = cliente
+senha= cliente
+
+caminho_arquivo = C:\Users\FORTH-FOLHA-03\Desktop\MIGRACAO AKI\
